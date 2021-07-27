@@ -1,12 +1,12 @@
 ### Hi , I'm Xiomi
 <p align="center">
- <a href="https://jlferrete.com" target="blank">
+ <a href="https://twitter.com/xiomi_pimpo" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg" alt="jlferrete" height="24px" width="24px" />
  </a>
- <a href="https://twitter.com/jlferrete" target="blank">
+ <a href="https://www.linkedin.com/in/xi0mara/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jlferrete" height="24px" width="24px" />
  </a>
- <a href="https://twitter.com/jlferrete" target="blank">
+ <a href="https://twitter.com/xiomi_pimpo" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jlferrete" height="24px" width="24px" />
  </a>
 </p>
