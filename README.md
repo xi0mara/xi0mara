@@ -4,13 +4,13 @@
 ![image](https://user-images.githubusercontent.com/21746170/127181482-02793438-38b8-40d7-8af7-796eb3697be1.png)
 
 <p align="center">
- <a href="https://twitter.com/xiomi_pimpo" target="blank">
+ <a href="https://twitter.com/xiomi_pimpo" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg" alt="jlferrete" height="24px" width="24px" />
  </a>
- <a href="https://www.linkedin.com/in/xi0mara/" target="blank">
+ <a href="https://www.linkedin.com/in/xi0mara/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jlferrete" height="24px" width="24px" />
  </a>
- <a href="https://twitter.com/xiomi_pimpo" target="blank">
+ <a href="https://twitter.com/xiomi_pimpo" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jlferrete" height="24px" width="24px" />
  </a>
 </p>
