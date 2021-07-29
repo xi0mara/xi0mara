@@ -35,7 +35,8 @@
 HTML5 CSS3 SASS JavaScript Angular Vue React TypeScript Git Node.js MongoDB Docker Jest Cypress -->
 
 ## Talks 🗣️💬 
-- Convertsatorio en Mujer TIC (comunidad argentina)
+- Convertsatorio con Chile, Argentina y PErú en Mujer TIC - Comunidad de Mujeres en Tecnología.
+  - Tema: Oportunidades laborales, creencias y mitos en Tecnología.
 - XV Festival Latinoamericano de Instalación de Software Libre
   - Tema: WordPress, el CMS Open Source que conquistó Internet.
 - COLEGIO DE INGENIEROS DEL PERU (CIP)
