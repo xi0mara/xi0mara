@@ -47,6 +47,19 @@ HTML5 CSS3 SASS JavaScript Angular Vue React TypeScript Git Node.js MongoDB Dock
 
 #### 🌱 "Always learning new things"
 
+## Me encontrarás por aquí:
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/xiomi_pimpo)](https://twitter.com/xiomi_pimpo)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCsmLy_COJPEpALLQzmp8CAQ)](https://www.youtube.com/channel/UCsmLy_COJPEpALLQzmp8CAQ)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xi0mara/)](https://www.linkedin.com/in/xi0mara/)
+
+
+
+
+
+
+
+
+
 <!--
 <p align="left">
  <img src="https://github.com/konpa/devicon/blob/master/icons/php/php-original.svg" alt="php" width="24px" height="24px"/>
