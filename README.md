@@ -1,4 +1,5 @@
-### Hi 👋🏽, I'm Xiomi 😄
+### Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="28" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;"> , I'm Xiomi 😄 
+
 <!--<img width="1252" alt="banner-github" src="https://user-images.githubusercontent.com/45037868/107915497-e2f43500-6f64-11eb-8d10-4048ea1ce832.png"> -->
 
 ![image](https://user-images.githubusercontent.com/21746170/127181482-02793438-38b8-40d7-8af7-796eb3697be1.png)
