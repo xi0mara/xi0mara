@@ -17,13 +17,25 @@
 </p>
 
 ## Technologies
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" /> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" /> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" /> <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=007ACC" alt="bootstrap logo" title="bootstrap" height="30" /> <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />
+<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=white" alt="Figma" title="Fifma" height="30" />
+<img src="https://img.shields.io/badge/Trello-282C34?logo=Trello&logoColor=007ACC" alt=" Trello" title="Trello" height="30" />
+<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=lightgrey" alt="GitHub logo" title="GitHub" height="30" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-282C34?logo=MicrosoftExcel&logoColor=008000" alt="Microsoft Excel logo" title="Microsoft Excel" height="30" />
+
+
+<!--
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="30" />
+<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="30" />
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="30" />
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=plastic&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 
-<!--
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=plastic&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
