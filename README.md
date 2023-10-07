@@ -45,7 +45,7 @@
   - Tema: Fortalecer la participación de las mujeres chiclayanas en la tecnología, gracias al apoyo de las Organizaciones NaimLab e IguanaOrg.
   - speaker
  
-#### techCommunities 👩‍💻 ♥
+## techCommunities 👩‍💻 ♥
 - [Women Techmakers](https://www.linkedin.com/company/women-techmakers-lima/)
   Women Techmakers es la marca global y el programa de Google para las mujeres en la tecnología. 
   - Ambassador - 2023
