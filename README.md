@@ -1,7 +1,11 @@
 # Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="28" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;"> , I'm Xiomi 😄 
+<img src="https://github.com/xi0mara/xi0mara/assets/21746170/9a2ec4f9-0255-4c7d-a6c5-129bbecb303a" alt="little front logo" title="front" height="500" />
 <p align="center">¡Bienvenido! Soy desarrolladora front-end apasionada por los nuevos retos. Aprendo a diario, me gusta dibujar con HTML y CSS ♥ <strong>Woman Techmakers Ambassador 2023</strong></p>
 
-![image](https://user-images.githubusercontent.com/21746170/127181482-02793438-38b8-40d7-8af7-796eb3697be1.png)
+<!-- 
+ ![little-front](https://github.com/xi0mara/xi0mara/assets/21746170/9a2ec4f9-0255-4c7d-a6c5-129bbecb303a)
+ ![image](https://user-images.githubusercontent.com/21746170/127181482-02793438-38b8-40d7-8af7-796eb3697be1.png)
+-->
 
 ## Technologies
 
