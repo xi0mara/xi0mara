@@ -1,4 +1,5 @@
 # Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="28" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;"> , I'm Xiomi 😄 
+<p align="center">¡Bienvenido! Soy desarrolladora front-end apasionada por los nuevos retos. Aprendo a diario, me gusta dibujar con HTML y CSS ♥  Woman Techmakers Ambassador 2023 </p>
 
 <!--<img width="1252" alt="banner-github" src="https://user-images.githubusercontent.com/45037868/107915497-e2f43500-6f64-11eb-8d10-4048ea1ce832.png"> -->
 
@@ -17,7 +18,12 @@
 </p>
 
 ## Technologies
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" /> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" /> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" /> <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=007ACC" alt="bootstrap logo" title="bootstrap" height="30" /> <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" />
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" />
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" />
+<img src="https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular" alt="Angular logo" title="Angular" height="30" />
+<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=007ACC" alt="bootstrap logo" title="bootstrap" height="30" /> 
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />
 <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=white" alt="Figma" title="Fifma" height="30" />
 <img src="https://img.shields.io/badge/Trello-282C34?logo=Trello&logoColor=007ACC" alt=" Trello" title="Trello" height="30" />
