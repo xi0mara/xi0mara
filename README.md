@@ -50,7 +50,7 @@
   - speaker
  
 ## techCommunities 👩‍💻 ♥
-- [Women Techmakers](https://www.linkedin.com/company/women-techmakers-lima/)
+- [Women Techmakers Ambassador](https://www.linkedin.com/company/women-techmakers-lima/)
   Women Techmakers es la marca global y el programa de Google para las mujeres en la tecnología. 
   - Ambassador - 2023
 
